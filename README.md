@@ -1,6 +1,6 @@
-# EJ2 React
+# React
 
-> Customer reported bugs automation in React platform.
+> Syncfusion scheduler layout in React platform.
 
 ## Test Setup
 
